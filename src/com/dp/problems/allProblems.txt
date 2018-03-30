@@ -1,0 +1,5 @@
+Calculate the nth Fibonacci number
+Calculate the Total number of ways to reach the nth position of a ladder from ground,By taking step size of 1,2,3,.....,k.
+Calculate the Minimum number of coins needed to Get the Amount x,using the given coins.
+    Example: coins = [1,7,10],  amount = 15
+             ans-> 3 (7,7,1)
